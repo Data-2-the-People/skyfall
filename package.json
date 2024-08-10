@@ -16,10 +16,10 @@
   "dependencies": {
     "@airbnb/lunar": "3.28.1",
     "@airbnb/lunar-icons": "3.1.1",
-    "@visx/axis": "1.4.0",
-    "@visx/group": "1.0.0",
+    "@visx/axis": "1.17.1",
+    "@visx/group": "1.17.1",
     "@visx/scale": "1.14.0",
-    "@visx/shape": "1.4.0",
+    "@visx/shape": "1.17.1",
     "enzyme": "3.11.0",
     "enzyme-adapter-react-16": "1.15.6",
     "neat-csv": "6.0.1",
