@@ -31,10 +31,10 @@
     "styled-components": "5.3.3"
   },
   "devDependencies": {
-    "@babel/cli": "7.16.0",
-    "@babel/core": "7.16.0",
-    "@babel/preset-env": "7.16.4",
-    "@babel/preset-react": "7.16.0",
+    "@babel/cli": "7.25.9",
+    "@babel/core": "7.25.9",
+    "@babel/preset-env": "7.25.9",
+    "@babel/preset-react": "7.25.9",
     "@philihp/eslint-config": "4.3.0",
     "husky": "7.0.4",
     "lint-staged": "12.1.2"
